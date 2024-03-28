@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMessagesSpammer", "GoogleMessagesSpammer\GoogleMessagesSpammer.csproj", "{FE05E03B-9FF0-46F0-A5BC-B969732C6211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE05E03B-9FF0-46F0-A5BC-B969732C6211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE05E03B-9FF0-46F0-A5BC-B969732C6211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE05E03B-9FF0-46F0-A5BC-B969732C6211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE05E03B-9FF0-46F0-A5BC-B969732C6211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
